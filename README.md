@@ -3,7 +3,7 @@
 A Vite + React tool for simulating network topologies, structural failures, bandwidth bottlenecks, dependency ordering, red-team cluster attacks, and secure node reintegration.
 
 # Live Demo:
-
+👉 [Network Reliability Analyzer](https://network-reliability-analyser.vercel.app/)
 
 ## Project Overview
 
