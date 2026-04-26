@@ -69,7 +69,7 @@ npm run build
 - Use "Load Sample" to seed a topology with bridges, dependency direction, and varied capacities.
 - Use "Remove Selected" after selecting a node or link in the graph.
 
-## 🚀 Future Enhancements
+## Future Enhancements
 
 - Migrate core algorithm engine to a C++ backend for improved performance and scalability
 - Enhance UI with step-by-step visualization of algorithms
