@@ -2,6 +2,9 @@
 
 A Vite + React tool for simulating network topologies, structural failures, bandwidth bottlenecks, dependency ordering, red-team cluster attacks, and secure node reintegration.
 
+# Live Demo:
+
+
 ## Project Overview
 
 Network Analyser is a web-based computer networks and competitive programming lab project that helps visualize network topology behavior under failure and recovery conditions. The tool combines graph visualization with classic algorithms to demonstrate critical-node detection, boot dependency ordering, bandwidth-aware routing, and adversarial threat modeling.
@@ -69,7 +72,10 @@ npm run build
 - Use "Load Sample" to seed a topology with bridges, dependency direction, and varied capacities.
 - Use "Remove Selected" after selecting a node or link in the graph.
 
-## Future Enhancements
+##Screenshot
+<img width="1670" height="942" alt="My_Imagepng" src="https://github.com/user-attachments/assets/13fbc3d2-dbfd-4d20-b0b8-3dcb4c89ff23" />
+
+##Future Enhancemnets
 
 - Migrate core algorithm engine to a C++ backend for improved performance and scalability
 - Enhance UI with step-by-step visualization of algorithms
